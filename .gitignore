@@ -1,4 +1,6 @@
 os_course_design
-src/*.o
+*.o
 *~
 ~$*.doc
+.DS_Store
+Thumbs.db
