@@ -1,0 +1,4 @@
+os_course_design
+src/*.o
+*~
+~$*.doc
